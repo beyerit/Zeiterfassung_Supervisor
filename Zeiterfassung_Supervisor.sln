@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zeiterfassung_Supervisor", "Zeiterfassung_Supervisor\Zeiterfassung_Supervisor.csproj", "{361D965A-4C78-4C2B-A1ED-6BC6AC52DB5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{361D965A-4C78-4C2B-A1ED-6BC6AC52DB5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361D965A-4C78-4C2B-A1ED-6BC6AC52DB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361D965A-4C78-4C2B-A1ED-6BC6AC52DB5C}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{361D965A-4C78-4C2B-A1ED-6BC6AC52DB5C}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57C478AC-9E07-4067-B067-DD8DF3860877}
+	EndGlobalSection
+EndGlobal

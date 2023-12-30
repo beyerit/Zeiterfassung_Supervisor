@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Zeiterfassung_Supervisor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DatabasePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\temp\db.csv</Value>
+    </Setting>
+    <Setting Name="ViewFilePapth" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\temp\short</Value>
+    </Setting>
+    <Setting Name="ProgramPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE</Value>
+    </Setting>
+    <Setting Name="SupportEmail" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">christoph.beyer@schindler.com</Value>
+    </Setting>
+    <Setting Name="HightlightSyncdateIfOlder" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="SourceFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\temp</Value>
+    </Setting>
+    <Setting Name="ProgramPathUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="EnableScaling" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
